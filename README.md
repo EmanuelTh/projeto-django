@@ -1,2 +1,2 @@
 # projeto-django
-aplicação de gestão de usuários usando o frame work django para python
+aplicação de gestão de usuários usando o framework django para python
